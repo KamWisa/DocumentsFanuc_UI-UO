@@ -1,1 +1,9 @@
-
+Setting Robot Fanuc
+1.Edit Name Program RSR0001 (1-8)
+2.Menu > Setup > Prog Select > Program Select Mode = RSR , DETAIL(F3) , RSR1 = ENABLE(F4)
+3.Menu > Next > SYSTEM > Config > 6.Restore select program = TRUE
+                                  7.Enable UI Signals = TRUE
+                                  8.START for CONTINUE inly = TRUE
+                                  9.CSTOPI for ABROT = TRUE
+                                  17.Original program name(F1) = RSR
+                                  42.Remote/Local setup = Remote

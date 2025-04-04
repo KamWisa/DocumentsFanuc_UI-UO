@@ -7,3 +7,5 @@ Setting Robot Fanuc
                                   9.CSTOPI for ABROT = TRUE
                                   17.Original program name(F1) = RSR
                                   42.Remote/Local setup = Remote
+
+UI_1 := 

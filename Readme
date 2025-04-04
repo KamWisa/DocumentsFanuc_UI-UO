@@ -8,4 +8,43 @@ Setting Robot Fanuc
                                   17.Original program name(F1) = RSR
                                   42.Remote/Local setup = Remote
 
-UI_1 := 
+UI[01] := IMSTP
+UI[02] := HOLD
+UI[03] := SFSPD
+UI[04] := CSTOPI
+UI[05] := RESET
+UI[06] := START
+UI[07] := HOME
+UI[08] := ENBL
+UI[09] := RSR1/PNS1/STYLE1 
+UI[10] := RSR2/PNS2/STYLE2 
+UI[11] := RSR3/PNS3/STYLE3 
+UI[12] := RSR4/PNS4/STYLE4 
+UI[13] := RSR5/PNS5/STYLE5 
+UI[14] := RSR6/PNS6/STYLE6 
+UI[15] := RSR7/PNS7/STYLE7 
+UI[16] := RSR8/PNS8/STYLE8 
+UI[17] := PNSTROBE
+UI[18] := PROD_START 
+
+
+UO[01] := CMDENBL
+UO[02] := SYSRDY
+UO[03] := PROGRUN
+UO[04] := PAUSED
+UO[05] := HELD
+UO[06] := FAULT
+UO[07] := ATPERCH
+UO[08] := TPENBL
+UO[09] := BATALM
+UO[10] := BUSY
+UO[11] := ACK1/SNO1 
+UO[12] := ACK2/SNO2
+UO[13] := ACK3/SNO3 
+UO[14] := ACK4/SNO4 
+UO[15] := ACK5/SNO5 
+UO[16] := ACK6/SNO6 
+UO[17] := ACK7/SNO7 
+UO[18] := ACK8/SNO8 
+UO[19] := SNACK
+UO[20] := RESERVE
